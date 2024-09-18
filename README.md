@@ -51,17 +51,11 @@ As a member of an agile team, I want a Kanban board with a secure login page so 
     JWT_SECRET=your_secret_key
     ```
 
-6. Start the server:
+6. Start development:
     ```bash
-    cd ../server
-    npm start
+    npm run start:dev
     ```
 
-7. Start the client:
-    ```bash
-    cd ../client
-    npm start
-    ```
 
 8. The app will be available on `http://localhost:3000`.
 
@@ -133,6 +127,6 @@ This project is licensed under the MIT License.
 
 ## Deployed Application
 
-You can view the deployed application at: [https://your-app-url-on-render.com](https://your-app-url-on-render.com)
+You can view the deployed application at: [[https://your-app-url-on-render.com](https://kanban-fun-board.onrender.com/)]
 
 
